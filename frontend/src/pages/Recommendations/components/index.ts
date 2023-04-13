@@ -1,0 +1,1 @@
+export { default as RecomendationSection } from "./RecomendationSection/RecomendationSection";

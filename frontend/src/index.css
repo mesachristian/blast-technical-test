@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+*,*:before,*:after {
+    box-sizing: border-box;
+}
+
+.leaflet-container{
+    width: 700px;
+    height: 500px;
+}
